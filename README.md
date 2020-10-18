@@ -1,4 +1,4 @@
-# coronatracker_usemy
+# coronatracker_udemy
 
 A new Flutter project.
 
